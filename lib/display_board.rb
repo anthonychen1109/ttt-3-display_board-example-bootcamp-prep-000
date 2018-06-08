@@ -4,7 +4,6 @@ def display_board
   row = "#{cell}|#{cell}|#{cell}"
   col = "-----------"
   board = [cell, row]
-  test = "123"
   puts board
   puts col
   puts board
